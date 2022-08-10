@@ -1,4 +1,3 @@
-let link = document.createElement('style')
 let content = document.querySelector('.js-generated.content')
 let header = document.createElement('h1')
 let dogContent = document.createElement('div')    
